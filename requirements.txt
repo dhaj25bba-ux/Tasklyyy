@@ -1,0 +1,7 @@
+streamlit
+markitdown[pdf,docx,pptx,xlsx,xls]
+pillow>=8,<13
+pytesseract
+pymupdf
+gdown
+requests
